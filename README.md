@@ -108,3 +108,7 @@ cd terraform-manifests-aks
 terraform destroy
 
 ```
+
+## Credits and Acknowledgments
+
+- The AKS deployment script is based on [azure-aks-kubernetes](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass.git)
